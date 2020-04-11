@@ -16,6 +16,23 @@ Project has been tested on both iOS (iPhone X) and Android.
 Preferrably test in iOS using expo.
 
 Run `expo start` on the terminal and scan the QR code.
-Run `expo start --android` for Android
-Run `expo start --ios` for iOS
 
+Run `expo start --android` for Android.
+
+Run `expo start --ios` for iOS.
+
+## Screenshots
+Screenshots where taken from iPhone X (iOS) and Android Emulator Nexus 5X (Android)
+
+
+HomePage iOS (Left) Android (Right)
+
+![HomePage](images/Home_Combined.png)
+
+DeckView iOS (Left) Android (Right)
+
+![DeckView](images/Deckview_Combined.png)
+
+CardView iOS (Left) Android (Right)
+
+![CardView](images/CardView_Combined.png)
