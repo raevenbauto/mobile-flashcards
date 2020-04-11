@@ -15,3 +15,7 @@ The project has the following extensions from npm.
 Project has been tested on both iOS (iPhone X) and Android.
 Preferrably test in iOS using expo.
 
+Run `expo start` on the terminal and scan the QR code.
+Run `expo start --android` for Android
+Run `expo start --ios` for iOS
+
